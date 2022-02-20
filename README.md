@@ -34,7 +34,7 @@ Publish the website in the given URL.
 
 
 ## PROGRAM :
-~~~~
+~~~
 urls.py:-
 
 from django.contrib import admin
@@ -147,7 +147,7 @@ html Code:-
 
 
 ## OUTPUT:
-![output](tom.png)
+![output](tham.png)
 
 
 
