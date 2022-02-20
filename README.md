@@ -147,7 +147,7 @@ html Code:-
 
 
 ## OUTPUT:
-![](tham.png)
+![](tom.png)
 
 ### Home Page:
 
